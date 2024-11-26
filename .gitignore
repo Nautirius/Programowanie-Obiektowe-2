@@ -1,2 +1,6 @@
 /.idea
 *.class
+/practice
+/MavenTest/*
+*.jar
+lab06/refactor/*
