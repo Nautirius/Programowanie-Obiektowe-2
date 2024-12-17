@@ -1,6 +1,10 @@
 /.idea
 *.class
 /practice
-/MavenTest/*
+/MavenTest/
 *.jar
 lab06/refactor/*
+*.in
+*.out
+*.txt
+*.zip
